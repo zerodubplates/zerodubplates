@@ -10,13 +10,12 @@ I am revising all stuff Cybersecurity to get myself ready to do 3 compTIA qualif
  - [ ] compTIA Network+
 
   ## Tools
-  * Apple Macbook Pro 2020 w/ Omarchy Linux
-  * Thinkpad T480 w/ Arch Linux
+  * Thinkpad T480s running Omarchy 3.2
 
 ## Fun Facts:  
   * I have two cats  
   * I'm a DJ
-  * Runescape is the game i've played the longest
+  * Ive played runescape since 2004
   
   ## Hobbies: 
   * Gaming
